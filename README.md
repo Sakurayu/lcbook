@@ -1,4 +1,4 @@
 # Introduction
 
-This is used as a gitbook to keep a record of my leetcode.
+This book is to keep an electronic copy of all the leetcode questions I have tried.
 
