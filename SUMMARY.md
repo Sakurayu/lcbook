@@ -7,6 +7,7 @@
 * [Reverse](linked-list/reverse.md)
 * Remove Node
   * [19. Remove Nth Node From End of List](linked-list/remove-node/19.-remove-nth-node-from-end-of-list.md)
+  * [Remove Duplicates](linked-list/remove-node/remove-duplicates.md)
 * [Find Mid-Point](linked-list/find-mid-point.md)
 * Merge/Intersection
   * [21. Merge Two Sorted Lists](linked-list/merge-intersection/21.-merge-two-sorted-lists.md)
@@ -18,6 +19,7 @@
 
 ## Array
 
-* Container with Most Water
-  * Untitled
+## Two Pointers
+
+## Data Structure Design
 

@@ -1,0 +1,77 @@
+# Remove Duplicates
+
+[ 83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+
+Given a sorted linked list, delete all duplicates such that each element appear only _once_.
+
+For example,  
+Given `1->1->2`, return `1->2`.  
+Given `1->1->2->3->3`, return `1->2->3`.  
+
+
+```text
+class Solution {
+    public ListNode deleteDuplicates(ListNode head) {
+        
+        if (head == null || head.next == null) return head;
+        
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        
+        while (head != null && head.next != null) {
+            if (head.val == head.next.val) {
+                head.next = head.next.next;
+            } else {
+                head = head.next;
+            }
+        }
+        return dummy.next;
+        
+    }
+}
+```
+
+[ 82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+
+Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only _distinct_ numbers from the original list.
+
+For example,  
+Given `1->2->3->3->4->4->5`, return `1->2->5`.  
+Given `1->1->1->2->3`, return `2->3`.
+
+```text
+public class Solution {
+    public ListNode deleteDuplicates(ListNode head) {
+        
+        //recursive
+         if (head == null) return null;
+    
+        // if (head.next != null && head.val == head.next.val) {
+        //     while (head.next != null && head.val == head.next.val) {
+        //         head = head.next;
+        //     }
+        //     return deleteDuplicates(head.next);
+        // } else {
+        //     head.next = deleteDuplicates(head.next);
+        // }
+        // return head;
+        
+        ListNode dummy = new ListNode(0), slow = dummy, fast = head;
+        dummy.next = head;
+        while(fast != null) {
+    	    while (fast.next != null && fast.val == fast.next.val) {
+     		    fast = fast.next;    //while loop to find the last node of the dups.
+    	    }
+    	    if (slow.next != fast) { //duplicates detected.
+    		    slow.next = fast.next; //remove the dups.
+    	    } else { //no dup, move down both pointer.
+    		    slow = slow.next;
+    	    }
+    	    fast = fast.next; //reposition the fast pointer.
+        }
+        return dummy.next;
+        
+    }
+}
+```
+
