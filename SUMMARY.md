@@ -5,7 +5,7 @@
 
 ## Linked List
 
-* [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
+* [通用](linked-list/206.-reverse-linked-list.md)
 * 24. Swap Nodes in Pairs
   * subtitle
 
