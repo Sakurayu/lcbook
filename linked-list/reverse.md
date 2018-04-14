@@ -2,6 +2,8 @@
 
 [**206. Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/description/)
 
+ **My Solutions:**
+
 ```text
 public ListNode reverseList(ListNode head) {
     ListNode pre = null;
@@ -15,7 +17,7 @@ public ListNode reverseList(ListNode head) {
 }
 ```
 
-* recursive
+* recursive version
 
 ```text
 public ListNode reverseList(ListNode head) {
@@ -39,6 +41,8 @@ return `1->4->3->2->5->NULL`.
 **Note:**  
 Given _m_, _n_ satisfy the following condition:  
 1 ≤ _m_ ≤ _n_ ≤ length of list.
+
+ **My Solutions:**
 
 ```text
 class Solution {
