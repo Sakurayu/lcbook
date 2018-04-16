@@ -44,6 +44,8 @@ Given _m_, _n_ satisfy the following condition:
 
  **My Solutions:**
 
+只反转从m到n位置的nodes，所以需要先走到m之前的位置，然后反转到n-m的位置
+
 ```text
 class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {

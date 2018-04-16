@@ -1,0 +1,61 @@
+# 369. Plus One Linked List
+
+Given a non-negative number represented as a singly linked list of digits, plus one to the number.
+
+The digits are stored such that the most significant digit is at the head of the list.
+
+Example:  
+
+
+```text
+Input:
+1->2->3
+
+Output:
+1->2->4
+```
+
+My Solutions:
+
+1。 方法1
+
+* 反转链表
+* +1 运算
+* 再次反转
+
+```text
+//pseudo code
+
+ListNode head2 = reverse(head);
+
+ListNode node = head2;
+while (node != null) {
+    if (node.val + 1 <= 9) {
+        node.val = node.val + 1；
+        break; 
+    } else {
+        node.val = 0;
+        if (node.next == null) {
+            node.next = new ListNode(1);
+            break;
+        } else {
+            node = node.next;
+        }
+    }
+}
+return reverse(head2);
+```
+
+2。 方法2
+
+* 遍历链表，找到右起第一个不为9的数字
+  * 找到？此数字+1，把后面所有的node变成0
+  * 找不到？说明所有数字均为9。在表头新建一个值为0的新节点，进行加1处理，然后把右边所有的数字都置为0即可。
+    * 举例来说：
+
+      比如1-&gt;2-&gt;3，那么第一个不为9的数字为3，对3进行加1，变成4，右边没有节点了，所以不做处理，返回1-&gt;2-&gt;4。
+
+      再比如说8-&gt;9-&gt;9，找第一个不为9的数字为8，进行加1处理变成了9，然后把后面的数字都置0，得到结果9-&gt;0-&gt;0。
+
+      再来看9-&gt;9-&gt;9的情况，找不到不为9的数字，那么再前面新建一个值为0的节点，进行加1处理变成了1，把后面的数字都置0，得到1-&gt;0-&gt;0-&gt;0。
+
