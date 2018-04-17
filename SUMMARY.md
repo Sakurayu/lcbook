@@ -2,6 +2,26 @@
 
 * [Introduction](README.md)
 
+## Array
+
+## Backtracking
+
+## BFS
+
+## Binary Search
+
+## Bit Manipulation
+
+## Data Structure Design
+
+* [146. LRU Cache](data-structure-design/146.-lru-cache.md)
+
+## DFS
+
+## Dynamic Programming
+
+## Graph
+
 ## Linked List
 
 * [Reverse](linked-list/reverse.md)
@@ -28,11 +48,25 @@
   * [234. Palindrome Linked List](linked-list/mixup-of-basic-models/234.-palindrome-linked-list.md)
   * [143. Reorder List](linked-list/mixup-of-basic-models/143.-reorder-list.md)
 
-## Array
+## Math
+
+## Matrix
+
+## Priority Queue
+
+## Random
+
+## Stack
+
+## String
+
+## Tree
+
+## Trie
 
 ## Two Pointers
 
-## Data Structure Design
+## Union Find
 
-* [146. LRU Cache](data-structure-design/146.-lru-cache.md)
+
 
