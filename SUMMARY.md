@@ -34,3 +34,5 @@
 
 ## Data Structure Design
 
+* [146. LRU Cache](data-structure-design/146.-lru-cache.md)
+
