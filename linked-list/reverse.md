@@ -4,8 +4,11 @@
 
  **My Solutions:**
 
+Time: O\(n\); Space: O\(1\)
+
 ```text
 public ListNode reverseList(ListNode head) {
+    if (head == null || head.next == null) return head;
     ListNode pre = null;
     while (head != null) {
         ListNode temp = head.next;
@@ -45,6 +48,8 @@ Given _m_, _n_ satisfy the following condition:
  **My Solutions:**
 
 只反转从m到n位置的nodes，所以需要先走到m之前的位置，然后反转到n-m的位置
+
+Time: O\(n\); Space: O\(1\)
 
 ```text
 class Solution {

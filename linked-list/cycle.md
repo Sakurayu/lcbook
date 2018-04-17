@@ -37,17 +37,12 @@ Can you solve it without using extra space?
 
 **My Solutions**:
 
-找到cycle开始的node。
+Question: 找到cycle开始的node。
 
- 同样用快慢node，只要fast != null && fast.next != null，fast跳两步，slow跳一步。当两者相同时，说明有环。
-
-假设fast,slow相遇于Z，fast走过\(a + b + c + b\), slow走过\(a + b\), fast走过slow的两倍距离：2 \* \(a + b\) = a + b + c + b 
-
-==&gt; 2a + 2b = a + c + 2b 
-
-==&gt; a = c
-
-此时另一个third node 从X开始跳，每次一步。slow从Z开始，也每次一步。当third和slow相同时，return third.
+* 同样用快慢node，只要fast != null && fast.next != null，fast跳两步，slow跳一步。当两者相同时，说明有环。
+* 假设fast,slow相遇于Z，fast走过\(a + b + c + b\), slow走过\(a + b\), fast走过slow的两倍距离：2 \* \(a + b\) = a + b + c + b  ==&gt; 2a + 2b = a + c + 2b ==&gt; a = c
+* 此时另一个third node 从X开始跳，每次一步。slow从Z开始，也每次一步。当third和slow相同时，return third.
+* Time: O\(n\); Space: O\(1\)
 
 
 
