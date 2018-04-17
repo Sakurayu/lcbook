@@ -34,7 +34,3 @@
 
 ## Data Structure Design
 
-* Backtracking
-* Tree
-* String
-
