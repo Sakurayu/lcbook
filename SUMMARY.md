@@ -5,11 +5,35 @@
 ## Array
 
 * Two Sum
-  * [18. 4 Sum]
+  * [18. 4 Sum](two-sum/18.-4-sum.md)
+
+## Backtracking
+* Subset
+* Combination
+* Permutation
+
+## BFS
+* Islands
+
+## Binary Search
+* Matrix
+
+## Bit Manipulation
+* Power of Number
 
 ## Data Structure Design
 
 * [146. LRU Cache](data-structure-design/146.-lru-cache.md)
+
+## Dynamic Programming
+* House Robber
+
+## Graph
+* Clone
+
+## Greedy
+* Candy
+* Jump Game
 
 ## Linked List
 
@@ -39,4 +63,38 @@
   * [234. Palindrome Linked List](linked-list/mixup-of-basic-models/234.-palindrome-linked-list.md)
   * [143. Reorder List](linked-list/mixup-of-basic-models/143.-reorder-list.md)
   * [148. Sort List](linked-list/mixup-of-basic-models/148.-sort-list.md)
+  
+## Math
+* Sqrt
+
+## Matrix
+* Rotate Image
+
+## Priority Queue
+* Find Median
+
+## Random
+* Reservoir Sampling
+
+## Stack
+* Calculator
+
+## String
+* Palindrome
+* Anagram
+* Reverse
+
+## Tree
+* Path Sum
+* Traversal
+
+## Trie
+* Word Search
+ 	 
+## Two Pointers	
+* Move Numbers
+
+## Union Find
+* Consecutive Sequence
+
 
