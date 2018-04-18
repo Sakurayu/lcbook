@@ -101,6 +101,8 @@
 
 * Path Sum
 * Traversal
+* Validate Tree
+  * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
 
 ## Trie
 
