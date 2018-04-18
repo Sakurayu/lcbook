@@ -5,7 +5,7 @@
 ## Array
 
 * Two Sum
-  * 18. 4 Sum
+  * [18. 4 Sum]
 
 ## Data Structure Design
 
