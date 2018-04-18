@@ -5,20 +5,24 @@
 ## Array
 
 * Two Sum
-  * [18. 4 Sum](two-sum/18.-4-sum.md)
+  * 18. 4 Sum
 
 ## Backtracking
+
 * Subset
 * Combination
 * Permutation
 
 ## BFS
+
 * Islands
 
 ## Binary Search
+
 * Matrix
 
 ## Bit Manipulation
+
 * Power of Number
 
 ## Data Structure Design
@@ -26,24 +30,27 @@
 * [146. LRU Cache](data-structure-design/146.-lru-cache.md)
 
 ## Dynamic Programming
+
 * House Robber
 
 ## Graph
+
 * Clone
 
 ## Greedy
+
 * Candy
 * Jump Game
 
 ## Linked List
 
 * [Reverse](linked-list/reverse.md)
+* [Find Mid-Point](linked-list/find-mid-point.md)
 * Remove Node
   * [237. Delete Node in a Linked List](linked-list/remove-node/237.-delete-node-in-a-linked-list.md)
   * [203. Remove Linked List Elements](linked-list/remove-node/203.-remove-linked-list-elements.md)
   * [19. Remove Nth Node From End of List](linked-list/remove-node/19.-remove-nth-node-from-end-of-list.md)
   * [83. Remove Duplicates](linked-list/remove-node/83.-remove-duplicates.md)
-* [Find Mid-Point](linked-list/find-mid-point.md)
 * Merge/Intersection
   * [2. Add Two Numbers](linked-list/merge-intersection/2.-add-two-numbers.md)
   * [445. Add Two Numbers II](linked-list/merge-intersection/445.-add-two-numbers-ii.md)
@@ -63,38 +70,47 @@
   * [234. Palindrome Linked List](linked-list/mixup-of-basic-models/234.-palindrome-linked-list.md)
   * [143. Reorder List](linked-list/mixup-of-basic-models/143.-reorder-list.md)
   * [148. Sort List](linked-list/mixup-of-basic-models/148.-sort-list.md)
-  
+
 ## Math
+
 * Sqrt
 
 ## Matrix
+
 * Rotate Image
 
 ## Priority Queue
+
 * Find Median
 
 ## Random
+
 * Reservoir Sampling
 
 ## Stack
+
 * Calculator
 
 ## String
+
 * Palindrome
 * Anagram
 * Reverse
 
 ## Tree
+
 * Path Sum
 * Traversal
 
 ## Trie
+
 * Word Search
- 	 
-## Two Pointers	
+
+## Two Pointers
+
 * Move Numbers
 
 ## Union Find
-* Consecutive Sequence
 
+* Consecutive Sequence
 
