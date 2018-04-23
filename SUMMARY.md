@@ -89,7 +89,11 @@
 
 ## Stack
 
+* [Min Stack](stack/min-stack.md)
 * Calculator
+* Implement Stack/Queue
+  * [232. Implement Queue using Stacks](stack/implement-stack-queue/232.-implement-queue-using-stacks.md)
+  * [225. Implement Stack using Queues](stack/implement-stack-queue/untitled.md)
 
 ## String
 
@@ -99,8 +103,8 @@
 
 ## Tree
 
+* [Traversal](tree/traversal.md)
 * Path Sum
-* Traversal
 * Validate Tree
   * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
 
