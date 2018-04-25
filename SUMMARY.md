@@ -90,7 +90,7 @@
 ## Stack
 
 * [Min Stack](stack/min-stack.md)
-* Calculator
+* [Calculator](stack/calculator.md)
 * Implement Stack/Queue
   * [232. Implement Queue using Stacks](stack/implement-stack-queue/232.-implement-queue-using-stacks.md)
   * [225. Implement Stack using Queues](stack/implement-stack-queue/untitled.md)
