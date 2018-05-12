@@ -9,9 +9,11 @@
 
 ## Backtracking
 
-* Subset
+* [Subset](backtracking/subset.md)
 * Combination
+  * [77. Combinations](backtracking/combination/77.-combinations.md)
 * Permutation
+  * [567. Permutation in String](backtracking/permutation/567.-permutation-in-string.md)
 
 ## BFS
 
