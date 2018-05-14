@@ -12,8 +12,15 @@
 * [Subset](backtracking/subset.md)
 * Combination
   * [77. Combinations](backtracking/combination/77.-combinations.md)
+  * [39. Combination Sum & 40. Combination Sum II](backtracking/combination/39.-combination-sum-and-40.-combination-sum-ii.md)
+  * [216. Combination Sum III](backtracking/combination/216.-combination-sum-iii.md)
+  * [377. Combination Sum IV \(DP\)](backtracking/combination/377.-combination-sum-iv-dp.md)
+  * [17. Letter Combinations of a Phone Number](backtracking/combination/17.-letter-combinations-of-a-phone-number.md)
 * Permutation
-  * [567. Permutation in String](backtracking/permutation/567.-permutation-in-string.md)
+  * [46. Permutations & 47. Permutations II](backtracking/permutation/46.-permutations-and-47.-permutations-ii.md)
+  * [567. Permutation in String \(Sliding window\)](backtracking/permutation/567.-permutation-in-string.md)
+  * [31. Next Permutation \(String\)](backtracking/permutation/31.-next-permutation-string.md)
+  * [60. Permutation Sequence](backtracking/permutation/60.-permutation-sequence.md)
 
 ## BFS
 

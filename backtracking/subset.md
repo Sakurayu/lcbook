@@ -25,6 +25,8 @@ Output:
 
 **My Solutions:**
 
+注意dfs的for loop中，i=start，只能从前往后找
+
 ```text
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
