@@ -12,7 +12,8 @@
 * [Subset](backtracking/subset.md)
 * Combination
   * [77. Combinations](backtracking/combination/77.-combinations.md)
-  * [39. Combination Sum & 40. Combination Sum II](backtracking/combination/39.-combination-sum-and-40.-combination-sum-ii.md)
+  * [39. Combination Sum](backtracking/combination/39.-combination-sum-and-40.-combination-sum-ii.md)
+  * [40. Combination Sum II](backtracking/combination/40.-combination-sum-ii.md)
   * [216. Combination Sum III](backtracking/combination/216.-combination-sum-iii.md)
   * [377. Combination Sum IV \(DP\)](backtracking/combination/377.-combination-sum-iv-dp.md)
   * [17. Letter Combinations of a Phone Number](backtracking/combination/17.-letter-combinations-of-a-phone-number.md)

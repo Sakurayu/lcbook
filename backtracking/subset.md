@@ -1,6 +1,6 @@
 # Subset
 
-[** 78. Subsets**](https://leetcode.com/problems/subsets/description/)
+[ **78. Subsets**](https://leetcode.com/problems/subsets/description/)
 
 Given a set of **distinct** integers, _nums_, return all possible subsets \(the power set\).
 
@@ -47,7 +47,7 @@ class Solution {
 }
 ```
 
-[** 90. Subsets II**](https://leetcode.com/problems/subsets-ii/description/)
+[ **90. Subsets II**](https://leetcode.com/problems/subsets-ii/description/)
 
 Given a collection of integers that might contain duplicates, _**nums**_, return all possible subsets \(the power set\).
 

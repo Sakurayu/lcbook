@@ -1,6 +1,6 @@
 # 225. Implement Stack using Queues
 
-[** 225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/description/)
+[ **225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/description/)
 
 Implement the following operations of a stack using queues.
 

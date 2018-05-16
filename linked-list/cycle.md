@@ -1,6 +1,6 @@
 # Cycle
 
-[** 141. Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle/description/)
+[ **141. Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle/description/)
 
 Given a linked list, determine if it has a cycle in it.
 
@@ -26,7 +26,7 @@ public class Solution {
 }
 ```
 
-[** 142. Linked List Cycle II**](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+[ **142. Linked List Cycle II**](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 Given a linked list, return the node where the cycle begins. If there is no cycle, return `null`.
 
