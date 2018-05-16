@@ -22,6 +22,9 @@
   * [567. Permutation in String \(Sliding window\)](backtracking/permutation/567.-permutation-in-string.md)
   * [31. Next Permutation \(String\)](backtracking/permutation/31.-next-permutation-string.md)
   * [60. Permutation Sequence](backtracking/permutation/60.-permutation-sequence.md)
+* Palindrome Partitioning
+  * [​131. Palindrome Partitioning](backtracking/palindrome-partitioning/131.-palindrome-partitioning.md)
+  * [132. Palindrome Partitioning II \(DP\)](backtracking/palindrome-partitioning/132.-palindrome-partitioning-ii-dp.md)
 
 ## BFS
 
@@ -125,6 +128,7 @@
 ## Trie
 
 * Word Search
+* [79. Word Search \(Backtracking\)](trie/79.-word-search-backtracking.md)
 
 ## Two Pointers
 
@@ -133,4 +137,5 @@
 ## Union Find
 
 * Consecutive Sequence
+* Untitled
 
