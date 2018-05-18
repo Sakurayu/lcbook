@@ -130,6 +130,7 @@
 
 * Word Search
 * [79. Word Search \(Backtracking\)](trie/79.-word-search-backtracking.md)
+* [208. Implement Trie \(Prefix Tree\)](trie/208.-implement-trie-prefix-tree.md)
 
 ## Two Pointers
 
