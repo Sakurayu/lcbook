@@ -21,7 +21,8 @@
   * [46. Permutations & 47. Permutations II](backtracking/permutation/46.-permutations-and-47.-permutations-ii.md)
   * [567. Permutation in String \(Sliding window\)](backtracking/permutation/567.-permutation-in-string.md)
   * [31. Next Permutation \(String\)](backtracking/permutation/31.-next-permutation-string.md)
-  * [60. Permutation Sequence](backtracking/permutation/60.-permutation-sequence.md)
+  * [60. Permutation Sequence \(String\)](backtracking/permutation/60.-permutation-sequence.md)
+  * [784. Letter Case Permutation](backtracking/permutation/784.-letter-case-permutation.md)
 * Palindrome Partitioning
   * [​131. Palindrome Partitioning](backtracking/palindrome-partitioning/131.-palindrome-partitioning.md)
   * [132. Palindrome Partitioning II \(DP\)](backtracking/palindrome-partitioning/132.-palindrome-partitioning-ii-dp.md)
