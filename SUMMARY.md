@@ -128,9 +128,10 @@
 
 ## Trie
 
+* [208. Implement Trie \(Prefix Tree\) & 211. Add and Search Word](trie/208.-implement-trie-prefix-tree.md)
 * Word Search
-* [79. Word Search \(Backtracking\)](trie/79.-word-search-backtracking.md)
-* [208. Implement Trie \(Prefix Tree\)](trie/208.-implement-trie-prefix-tree.md)
+  * [79. Word Search \(Backtracking\)](trie/word-search/79.-word-search-backtracking.md)
+  * [212. Word Search II](trie/word-search/212.-word-search-ii.md)
 
 ## Two Pointers
 
