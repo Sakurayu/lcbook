@@ -57,6 +57,10 @@
 * Candy
 * Jump Game
 
+## Hash
+
+* Bucket
+
 ## Linked List
 
 * [Reverse](linked-list/reverse.md)
