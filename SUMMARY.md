@@ -5,23 +5,22 @@
 ## Array
 
 * Two Sum
-  * 18. 4 Sum
 
 ## Backtracking
 
 * [Subset](backtracking/subset.md)
 * Combination
   * [77. Combinations](backtracking/combination/77.-combinations.md)
-  * [39. Combination Sum](backtracking/combination/39.-combination-sum-and-40.-combination-sum-ii.md)
+  * [39. Combination Sum](backtracking/combination/39.-combination-sum.md)
   * [40. Combination Sum II](backtracking/combination/40.-combination-sum-ii.md)
   * [216. Combination Sum III](backtracking/combination/216.-combination-sum-iii.md)
   * [377. Combination Sum IV \(DP\)](backtracking/combination/377.-combination-sum-iv-dp.md)
   * [17. Letter Combinations of a Phone Number](backtracking/combination/17.-letter-combinations-of-a-phone-number.md)
 * Permutation
   * [46. Permutations & 47. Permutations II](backtracking/permutation/46.-permutations-and-47.-permutations-ii.md)
-  * [567. Permutation in String \(Sliding window\)](backtracking/permutation/567.-permutation-in-string.md)
+  * [567. Permutation in String \(Sliding window\)](backtracking/permutation/567.-permutation-in-string-sliding-window.md)
   * [31. Next Permutation \(String\)](backtracking/permutation/31.-next-permutation-string.md)
-  * [60. Permutation Sequence \(String\)](backtracking/permutation/60.-permutation-sequence.md)
+  * [60. Permutation Sequence \(String\)](backtracking/permutation/60.-permutation-sequence-string.md)
   * [784. Letter Case Permutation](backtracking/permutation/784.-letter-case-permutation.md)
 * Palindrome Partitioning
   * [​131. Palindrome Partitioning](backtracking/palindrome-partitioning/131.-palindrome-partitioning.md)
@@ -41,8 +40,8 @@
 
 ## Design
 
-* [146. LRU Cache](data-structure-design/146.-lru-cache.md)
-* [295. Find Median from Data Stream](data-structure-design/295.-find-median-from-data-stream.md)
+* [146. LRU Cache](design/146.-lru-cache.md)
+* [295. Find Median from Data Stream](design/295.-find-median-from-data-stream.md)
 
 ## Dynamic Programming
 
@@ -59,7 +58,9 @@
 
 ## Hash
 
-* Bucket
+* Frequency
+  * [347. Top K Frequent Elements](hash/untitled/347.-top-k-frequent-elements.md)
+  * [451. Sort Characters By Frequency](hash/untitled/451.-sort-characters-by-frequency.md)
 
 ## Linked List
 
@@ -95,7 +96,7 @@
 * Sqrt
 * Ugly Number
   * [263. Ugly Number](math/ugly-number/263.-ugly-number.md)
-  * [264. Ugly Number II](math/ugly-number/untitled.md)
+  * [264. Ugly Number II](math/ugly-number/264.-ugly-number-ii.md)
 
 ## Matrix
 
@@ -115,7 +116,7 @@
 * [Calculator](stack/calculator.md)
 * Implement Stack/Queue
   * [232. Implement Queue using Stacks](stack/implement-stack-queue/232.-implement-queue-using-stacks.md)
-  * [225. Implement Stack using Queues](stack/implement-stack-queue/untitled.md)
+  * [225. Implement Stack using Queues](stack/implement-stack-queue/225.-implement-stack-using-queues.md)
 
 ## String
 
@@ -136,7 +137,7 @@
 
 ## Trie
 
-* [208. Implement Trie \(Prefix Tree\) & 211. Add and Search Word](trie/208.-implement-trie-prefix-tree.md)
+* [208. Implement Trie \(Prefix Tree\) & 211. Add and Search Word](trie/208.-implement-trie-prefix-tree-and-211.-add-and-search-word.md)
 * Word Search
   * [79. Word Search \(Backtracking\)](trie/word-search/79.-word-search-backtracking.md)
   * [212. Word Search II](trie/word-search/212.-word-search-ii.md)
