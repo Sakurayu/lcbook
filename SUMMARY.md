@@ -39,9 +39,10 @@
 
 * Power of Number
 
-## Data Structure Design
+## Design
 
 * [146. LRU Cache](data-structure-design/146.-lru-cache.md)
+* [295. Find Median from Data Stream](data-structure-design/295.-find-median-from-data-stream.md)
 
 ## Dynamic Programming
 
@@ -88,6 +89,9 @@
 ## Math
 
 * Sqrt
+* Ugly Number
+  * [263. Ugly Number](math/ugly-number/263.-ugly-number.md)
+  * [264. Ugly Number II](math/ugly-number/untitled.md)
 
 ## Matrix
 
