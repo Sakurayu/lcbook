@@ -117,6 +117,7 @@
 * Implement Stack/Queue
   * [232. Implement Queue using Stacks](stack/implement-stack-queue/232.-implement-queue-using-stacks.md)
   * [225. Implement Stack using Queues](stack/implement-stack-queue/225.-implement-stack-using-queues.md)
+* [394. Decode String](stack/394.-decode-string.md)
 
 ## String
 
