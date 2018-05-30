@@ -42,6 +42,9 @@
 
 * [146. LRU Cache](design/146.-lru-cache.md)
 * [295. Find Median from Data Stream](design/295.-find-median-from-data-stream.md)
+* Insert/Delete/GetRandom: O\(1\)
+  * [380. Insert Delete GetRandom O\(1\)](design/untitled/380.-insert-delete-getrandom-o-1.md)
+  * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](design/untitled/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
 
 ## Dynamic Programming
 
