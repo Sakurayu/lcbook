@@ -49,6 +49,9 @@
 ## Dynamic Programming
 
 * House Robber
+* Maximum Subarray
+  * [53. Maximum Subarray](dynamic-programming/untitled/53.-maximum-subarray.md)
+  * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
 
 ## Graph
 
@@ -100,10 +103,15 @@
 * Ugly Number
   * [263. Ugly Number](math/ugly-number/263.-ugly-number.md)
   * [264. Ugly Number II](math/ugly-number/264.-ugly-number-ii.md)
+* [441. Arranging Coins](math/441.-arranging-coins.md)
 
 ## Matrix
 
 * Rotate Image
+* Island
+  * [463. Island Perimeter](matrix/island/463.-island-perimeter.md)
+  * [200. Number of Islands / 695. Max Area of Island](matrix/island/untitled.md)
+  * Untitled
 
 ## Priority Queue
 
@@ -131,6 +139,9 @@
   * [67. Add Binary / 415. Add Strings](string/add-two-strings/67.-add-binary-415.-add-strings.md)
   * [66. Plus One](string/add-two-strings/66.-plus-one.md)
   * [43. Multiply Strings](string/add-two-strings/43.-multiply-strings.md)
+* String Compression
+  * [443. String Compression](string/string-compression/443.-string-compression.md)
+  * [38. Count and Say](string/string-compression/untitled.md)
 
 ## Tree
 
@@ -153,5 +164,4 @@
 ## Union Find
 
 * Consecutive Sequence
-* Untitled
 
