@@ -49,6 +49,9 @@
 ## Dynamic Programming
 
 * House Robber
+  * [198. House Robber](dynamic-programming/house-robber/198.-house-robber.md)
+  * [213. House Robber II](dynamic-programming/house-robber/untitled.md)
+  * [337. House Robber III](dynamic-programming/house-robber/337.-house-robber-iii.md)
 * Maximum Subarray
   * [53. Maximum Subarray](dynamic-programming/untitled/53.-maximum-subarray.md)
   * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
