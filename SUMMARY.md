@@ -5,6 +5,7 @@
 ## Array
 
 * Two Sum
+* [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 
 ## Backtracking
 
@@ -45,6 +46,7 @@
 * Insert/Delete/GetRandom: O\(1\)
   * [380. Insert Delete GetRandom O\(1\)](design/untitled/380.-insert-delete-getrandom-o-1.md)
   * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](design/untitled/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
+* [676. Implement Magic Dictionary](design/676.-implement-magic-dictionary.md)
 
 ## Dynamic Programming
 
