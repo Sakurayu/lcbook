@@ -6,6 +6,15 @@
 
 * [Two Sum](array/two-sum.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
+* [Duplicate](array/duplicate/README.md)
+  * [Contains Duplicate](array/duplicate/contains-duplicate/README.md)
+    * [217. Contains Duplicate](array/duplicate/contains-duplicate/217.-contains-duplicate.md)
+    * [219. Contains Duplicate II](array/duplicate/contains-duplicate/219.-contains-duplicate-ii.md)
+    * [220. Contains Duplicate III](array/duplicate/contains-duplicate/220.-contains-duplicate-iii.md)
+  * [Find Duplicate](array/duplicate/find-duplicate/README.md)
+    * [287. Find the Duplicate Number](array/duplicate/find-duplicate/287.-find-the-duplicate-number.md)
+    * [442. Find All Duplicates in an Array](array/duplicate/find-duplicate/442.-find-all-duplicates-in-an-array.md)
+    * [26. Remove Duplicates from Sorted Array](array/duplicate/find-duplicate/26.-remove-duplicates-from-sorted-array.md)
 
 ## Backtracking
 
@@ -117,6 +126,7 @@
   * [463. Island Perimeter](matrix/island/463.-island-perimeter.md)
   * [200. Number of Islands / 695. Max Area of Island](matrix/island/untitled.md)
   * [Untitled](matrix/island/untitled-1.md)
+* [766. Toeplitz Matrix](matrix/766.-toeplitz-matrix.md)
 
 ## Priority Queue
 
@@ -157,6 +167,7 @@
 * [Path Sum](tree/path-sum.md)
 * [Validate Tree](tree/validate-tree/README.md)
   * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
+* [Depth](tree/depth.md)
 
 ## Trie
 
