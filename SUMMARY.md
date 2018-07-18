@@ -15,6 +15,8 @@
     * [287. Find the Duplicate Number](array/duplicate/find-duplicate/287.-find-the-duplicate-number.md)
     * [442. Find All Duplicates in an Array](array/duplicate/find-duplicate/442.-find-all-duplicates-in-an-array.md)
     * [26. Remove Duplicates from Sorted Array](array/duplicate/find-duplicate/26.-remove-duplicates-from-sorted-array.md)
+* [Unsorted Subarray](array/unsorted/README.md)
+  * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
 
 ## Backtracking
 
@@ -75,6 +77,7 @@
 
 * [Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game.md)
+* [605. Can Place Flowers](greedy/605.-can-place-flowers.md)
 
 ## Hash
 
@@ -148,7 +151,8 @@
 ## String
 
 * [Palindrome](string/palindrome.md)
-* [Anagram](string/anagram.md)
+* [Anagram](string/anagram/README.md)
+  * [438. Find All Anagrams in a String](string/anagram/438.-find-all-anagrams-in-a-string.md)
 * [Reverse](string/reverse.md)
 * [Add Two Strings](string/add-two-strings/README.md)
   * [67. Add Binary / 415. Add Strings](string/add-two-strings/67.-add-binary-415.-add-strings.md)
@@ -160,6 +164,9 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
+* [数字转换](string/shu-zi-zhuan-huan/README.md)
+  * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
+  * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
 
 ## Tree
 
@@ -183,4 +190,9 @@
 ## Union Find
 
 * [Consecutive Sequence](union-find/consecutive-sequence.md)
+
+## BrainStorm
+
+* [681. Next Closest Time](brainstorm/leetcode-681.-next-closest-time.md)
+* [683. K Empty Slots](brainstorm/683.-k-empty-slots.md)
 
