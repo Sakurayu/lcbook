@@ -34,6 +34,7 @@
   * [31. Next Permutation \(String\)](backtracking/permutation/31.-next-permutation-string.md)
   * [60. Permutation Sequence \(String\)](backtracking/permutation/60.-permutation-sequence-string.md)
   * [784. Letter Case Permutation](backtracking/permutation/784.-letter-case-permutation.md)
+  * [401. Binary Watch](backtracking/permutation/401.-binary-watch.md)
 * [Palindrome Partitioning](backtracking/palindrome-partitioning/README.md)
   * [​131. Palindrome Partitioning](backtracking/palindrome-partitioning/131.-palindrome-partitioning.md)
   * [132. Palindrome Partitioning II \(DP\)](backtracking/palindrome-partitioning/132.-palindrome-partitioning-ii-dp.md)
@@ -44,7 +45,8 @@
 
 ## Binary Search
 
-* [Matrix](binary-search/matrix.md)
+* [Array 模板](binary-search/array-mo-ban.md)
+* [Matrix](binary-search/matrix-1.md)
 
 ## Bit Manipulation
 
@@ -121,6 +123,7 @@
   * [263. Ugly Number](math/ugly-number/263.-ugly-number.md)
   * [264. Ugly Number II](math/ugly-number/264.-ugly-number-ii.md)
 * [441. Arranging Coins](math/441.-arranging-coins.md)
+* [447. Number of Boomerangs](math/447.-number-of-boomerangs.md)
 
 ## Matrix
 
@@ -128,8 +131,9 @@
 * [Island](matrix/island/README.md)
   * [463. Island Perimeter](matrix/island/463.-island-perimeter.md)
   * [200. Number of Islands / 695. Max Area of Island](matrix/island/untitled.md)
-  * [Untitled](matrix/island/untitled-1.md)
 * [766. Toeplitz Matrix](matrix/766.-toeplitz-matrix.md)
+* [DFS in Matrix](matrix/dfs-in-matrix/README.md)
+  * [733. Flood Fill](matrix/dfs-in-matrix/733.-flood-fill.md)
 
 ## Priority Queue
 
@@ -186,6 +190,7 @@
 ## Two Pointers
 
 * [Move Numbers](two-pointers/move-numbers.md)
+* [475. Heaters](two-pointers/475.-heaters.md)
 
 ## Union Find
 
