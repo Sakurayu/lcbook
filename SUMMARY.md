@@ -60,6 +60,9 @@
   * [380. Insert Delete GetRandom O\(1\)](design/untitled/380.-insert-delete-getrandom-o-1.md)
   * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](design/untitled/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
 * [676. Implement Magic Dictionary](design/676.-implement-magic-dictionary.md)
+* [706. Design HashMap](design/706.-design-hashmap.md)
+* [705. Design HashSet](design/705.-design-hashset.md)
+* [707. Design Linked List](design/707.-design-linked-list.md)
 
 ## Dynamic Programming
 
@@ -137,7 +140,8 @@
 
 ## Priority Queue
 
-* [Find Median](priority-queue/find-median.md)
+* [295. Find Median from Data Stream](priority-queue/find-median.md)
+* [703. Kth Largest Element in a Stream](priority-queue/703.-kth-largest-element-in-a-stream.md)
 
 ## Random
 
@@ -168,13 +172,15 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
-* [数字转换](string/shu-zi-zhuan-huan/README.md)
+* [Roman/Integer/String](string/shu-zi-zhuan-huan/README.md)
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
 
 ## Tree
 
-* [Traversal](tree/traversal.md)
+* [Traversal](tree/traversal/README.md)
+  * [Inorder Related](tree/traversal/inorder-related/README.md)
+    * [530. Minimum Absolute Difference in BST == 783. Minimum Distance Between BST Nodes](tree/traversal/inorder-related/530.-minimum-absolute-difference-in-bst-783.-minimum-distance-between-bst-nodes.md)
 * [Path Sum](tree/path-sum.md)
 * [Validate Tree](tree/validate-tree/README.md)
   * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
