@@ -47,6 +47,26 @@ class Solution {
 }
 ```
 
+方法2：非递归，按照组合的思想，一个数字都没有的时候是空集；有一个数字，则这个数字+空集是一个新集合。e.g. \[1,2,3\]
+
+一开始放空集【】，之后是【】，【1】。再之后是【】，【1】，【2】，【1，2】......
+
+```text
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        list.add(new ArrayList<>()); //空集
+        for (int n : nums) { //从nums中取出每一个元素
+            int size = list.size();
+            for (int i = 0; i < size; i++) {
+                List<Integer> temp = new ArrayList<>(list.get(i)); //temp是list中已有的
+                temp.add(n); //把新元素加入temp
+                list.add(temp); //新temp加入list中
+            }
+        }
+        return list;
+    }
+```
+
 [ **90. Subsets II**](https://leetcode.com/problems/subsets-ii/description/)
 
 Given a collection of integers that might contain duplicates, _**nums**_, return all possible subsets \(the power set\).
