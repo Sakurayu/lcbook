@@ -1,4 +1,4 @@
-# Traversal
+# Tree Traversal
 
      1
 

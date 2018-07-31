@@ -178,7 +178,7 @@
 
 ## Tree
 
-* [Traversal](tree/traversal/README.md)
+* [Tree Traversal](tree/traversal/README.md)
   * [Inorder\(Left-Root-Right\) Related](tree/traversal/inorder-related/README.md)
     * [530. Minimum Absolute Difference in BST == 783. Minimum Distance Between BST Nodes](tree/traversal/inorder-related/530.-minimum-absolute-difference-in-bst-783.-minimum-distance-between-bst-nodes.md)
   * [Right-Root-Left Related](tree/traversal/right-root-left-related/README.md)
@@ -186,7 +186,15 @@
 * [Path Sum](tree/path-sum.md)
 * [Validate Tree](tree/validate-tree/README.md)
   * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
+  * [100. Same Tree](tree/validate-tree/100.-same-tree.md)
+  * [110. Balanced Binary Tree](tree/validate-tree/110.-balanced-binary-tree.md)
+  * [101. Symmetric Tree](tree/validate-tree/101.-symmetric-tree.md)
 * [Depth](tree/depth.md)
+* [Construct Tree](tree/construct-tree/README.md)
+  * [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/construct-tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+  * [106. Construct Binary Tree from Inorder and Postorder Traversal](tree/construct-tree/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+* [Manipulate Tree](tree/manipulate-tree/README.md)
+  * [226. Invert Binary Tree](tree/manipulate-tree/226.-invert-binary-tree.md)
 
 ## Trie
 

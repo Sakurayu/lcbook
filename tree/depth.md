@@ -11,6 +11,41 @@ public class Solution {
 }
 ```
 
+
+
+\*\*\*\*[**Maximum Depth of N-ary Tree**](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)\*\*\*\*
+
+```text
+class Solution {
+    public int maxDepth(Node root) {
+        if (root == null) return 0;
+        int res = 0;
+        
+        //recursive 
+        // for (Node node : root.children) {
+        //     res = Math.max(res, maxDepth(node));
+        // }
+        // return res + 1;
+        
+        //iterative
+        Queue<Node> q = new LinkedList<>();
+        q.add(root);
+        int count = 0;
+        while(!q.isEmpty()) {
+            res++;
+            count = q.size();
+            for (int i = 0; i < count; i++) {
+                Node node = q.poll();
+                for (Node n : node.children) {
+                    q.add(n);
+                }
+            }
+        }
+        return res;
+    }
+}
+```
+
 [**Min. Depth**](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 
 Given a binary tree, find its minimum depth.
