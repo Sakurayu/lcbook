@@ -137,6 +137,7 @@
 * [766. Toeplitz Matrix](matrix/766.-toeplitz-matrix.md)
 * [DFS in Matrix](matrix/dfs-in-matrix/README.md)
   * [733. Flood Fill](matrix/dfs-in-matrix/733.-flood-fill.md)
+* [547. Friend Circles](matrix/547.-friend-circles.md)
 
 ## Priority Queue
 
@@ -145,7 +146,10 @@
 
 ## Random
 
-* [Reservoir Sampling](random/reservoir-sampling.md)
+* [Reservoir Sampling](random/reservoir-sampling/README.md)
+  * [382. Linked List Random Node](random/reservoir-sampling/382.-linked-list-random-node.md)
+  * [398. Random Pick Index](random/reservoir-sampling/398.-random-pick-index.md)
+  * [384. Shuffle an Array](random/reservoir-sampling/384.-shuffle-an-array.md)
 
 ## Stack
 
