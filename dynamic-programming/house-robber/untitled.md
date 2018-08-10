@@ -26,7 +26,7 @@ Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 
 _**My Solutions:**_
 
-和上题不同的地方是有环，所有要考虑两种情况：从第一个开始rob，rob到倒数第二个；从第二个开始rob，rob到倒数第一个
+和上题不同的地方是有环，所以要考虑两种情况：从第一个开始rob，rob到倒数第二个；从第二个开始rob，rob到倒数第一个
 
 ```text
 class Solution {
@@ -46,8 +46,6 @@ class Solution {
             profit = Math.max(profit, nums[i] + temp);
         }
         return profit;
-    
-        
     }
 }
 ```

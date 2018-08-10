@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Array
+## Array 数组
 
 * [Two Sum](array/two-sum.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
@@ -15,6 +15,10 @@
     * [287. Find the Duplicate Number](array/duplicate/find-duplicate/287.-find-the-duplicate-number.md)
     * [442. Find All Duplicates in an Array](array/duplicate/find-duplicate/442.-find-all-duplicates-in-an-array.md)
     * [26. Remove Duplicates from Sorted Array](array/duplicate/find-duplicate/26.-remove-duplicates-from-sorted-array.md)
+* [Missing/Disappeared Number](array/miss-number/README.md)
+  * [268. Missing Number](array/miss-number/268.-missing-number.md)
+  * [448. Find All Numbers Disappeared in an Array](array/miss-number/untitled-1.md)
+  * [41. First Missing Positive](array/miss-number/untitled-2.md)
 * [Unsorted Subarray](array/unsorted/README.md)
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
 
@@ -43,16 +47,16 @@
 
 * [Islands](bfs/islands.md)
 
-## Binary Search
+## Binary Search 二分法
 
 * [Array 模板](binary-search/array-mo-ban.md)
 * [Matrix](binary-search/matrix-1.md)
 
-## Bit Manipulation
+## Bit Manipulation 位运算
 
 * [Power of Number](bit-manipulation/power-of-number.md)
 
-## Design
+## Design 设计
 
 * [146. LRU Cache](design/146.-lru-cache.md)
 * [295. Find Median from Data Stream](design/295.-find-median-from-data-stream.md)
@@ -64,7 +68,7 @@
 * [705. Design HashSet](design/705.-design-hashset.md)
 * [707. Design Linked List](design/707.-design-linked-list.md)
 
-## Dynamic Programming
+## Dynamic Programming 动态规划
 
 * [House Robber](dynamic-programming/house-robber/README.md)
   * [198. House Robber](dynamic-programming/house-robber/198.-house-robber.md)
@@ -73,12 +77,21 @@
 * [Maximum Subarray](dynamic-programming/untitled/README.md)
   * [53. Maximum Subarray](dynamic-programming/untitled/53.-maximum-subarray.md)
   * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
+* [2D DP](dynamic-programming/2d-dp/README.md)
+  * [72. Edit Distance](dynamic-programming/2d-dp/72.-edit-distance.md)
+* [Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/README.md)
+  * [121. Best Time to Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/121.-best-time-to-buy-and-sell-stock.md)
+  * [122. Best Time to Buy and Sell Stock II](dynamic-programming/buy-and-sell-stock/122.-best-time-to-buy-and-sell-stock-ii.md)
+  * [714. Best Time to Buy and Sell Stock with Transaction Fee](dynamic-programming/buy-and-sell-stock/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+  * [309. Best Time to Buy and Sell Stock with Cooldown](dynamic-programming/buy-and-sell-stock/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
+  * [123. Best Time to Buy and Sell Stock III](dynamic-programming/buy-and-sell-stock/123.-best-time-to-buy-and-sell-stock-iii.md)
+  * [188. Best Time to Buy and Sell Stock IV](dynamic-programming/buy-and-sell-stock/188.-best-time-to-buy-and-sell-stock-iv.md)
 
 ## Graph
 
 * [Clone](graph/clone.md)
 
-## Greedy
+## Greedy 贪心算法
 
 * [Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game.md)
@@ -90,7 +103,7 @@
   * [347. Top K Frequent Elements](hash/untitled/347.-top-k-frequent-elements.md)
   * [451. Sort Characters By Frequency](hash/untitled/451.-sort-characters-by-frequency.md)
 
-## Linked List
+## Linked List 链表
 
 * [Reverse](linked-list/reverse.md)
 * [Find Mid-Point](linked-list/find-mid-point.md)
@@ -118,8 +131,9 @@
   * [234. Palindrome Linked List](linked-list/mixup-of-basic-models/234.-palindrome-linked-list.md)
   * [143. Reorder List](linked-list/mixup-of-basic-models/143.-reorder-list.md)
   * [148. Sort List](linked-list/mixup-of-basic-models/148.-sort-list.md)
+* [Copy](linked-list/copy.md)
 
-## Math
+## Math 数学计算
 
 * [Sqrt](math/sqrt.md)
 * [Ugly Number](math/ugly-number/README.md)
@@ -144,7 +158,7 @@
 * [295. Find Median from Data Stream](priority-queue/find-median.md)
 * [703. Kth Largest Element in a Stream](priority-queue/703.-kth-largest-element-in-a-stream.md)
 
-## Random
+## Random 随机
 
 * [Reservoir Sampling](random/reservoir-sampling/README.md)
   * [382. Linked List Random Node](random/reservoir-sampling/382.-linked-list-random-node.md)
@@ -180,7 +194,7 @@
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
 
-## Tree
+## Tree 树
 
 * [Tree Traversal](tree/traversal/README.md)
   * [Inorder\(Left-Root-Right\) Related](tree/traversal/inorder-related/README.md)
