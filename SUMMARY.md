@@ -21,6 +21,8 @@
   * [41. First Missing Positive](array/miss-number/untitled-2.md)
 * [Unsorted Subarray](array/unsorted/README.md)
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
+* [Subsequence](array/subsequence/README.md)
+  * [300. Longest Increasing Subsequence](array/subsequence/300.-longest-increasing-subsequence.md)
 
 ## Backtracking
 
@@ -220,6 +222,7 @@
 * [Word Search](trie/word-search/README.md)
   * [79. Word Search \(Backtracking\)](trie/word-search/79.-word-search-backtracking.md)
   * [212. Word Search II](trie/word-search/212.-word-search-ii.md)
+  * [720. Longest Word in Dictionary](trie/word-search/720.-longest-word-in-dictionary.md)
 
 ## Two Pointers
 
