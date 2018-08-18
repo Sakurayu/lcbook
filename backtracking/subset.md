@@ -102,11 +102,11 @@ class Solution {
     }
     
     public void dfs(List<List<Integer>> list, List<Integer> temp, int[] nums, int start) {
-        list.add(new ArrayList<>(temp));
-        for (int i = start; i < nums.length; i++) {
         
+        list.add(new ArrayList<>(temp));
+        
+        for (int i = start; i < nums.length; i++) {
             if (i > start && nums[i] == nums[i - 1]) continue; //跳过duplicates
-            
             temp.add(nums[i]);
             dfs(list, temp, nums, i + 1);
             temp.remove(temp.size() - 1);

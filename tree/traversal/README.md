@@ -145,7 +145,7 @@ return its level order traversal as:
 ]
 ```
 
-1。 方法1：iterative bfs
+1。 方法1：iterative bfs - queue
 
 ```text
 class Solution {

@@ -74,6 +74,7 @@ _**My Solutions:**_
 public class Solution {
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
+        
         if (root.left != null && root.right != null) { //has both children, return the min one
             return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
         } else { //only has left/right child, return the max one
@@ -82,4 +83,8 @@ public class Solution {
     }
 }
 ```
+
+
+
+
 

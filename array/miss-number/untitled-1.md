@@ -20,7 +20,7 @@ Output:
 
 _**My Solutions:**_
 
-除了类似268中，sort和hash的办法，还可以利用index
+除了类似268题中，sort和hash的办法，还可以利用index
 
 方法3：
 
@@ -45,7 +45,6 @@ public class Solution {
         }
         
         return res;
-        
     }
 }
 ```

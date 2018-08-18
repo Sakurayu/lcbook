@@ -61,6 +61,8 @@ public class Solution {
 
 _**My solutions：**_
 
+把所有的可能数字按照10以下，10~90， 100~900， 1000~3000分别存在几个array里。需要转换的数字按照 / 的余数分别去取array里的数字
+
 ```text
 public class Solution {
     public String intToRoman(int num) {

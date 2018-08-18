@@ -32,7 +32,7 @@ public ListNode reverseList(ListNode head) {
 }
 ```
 
-[**92. Reverse Linked ListII**](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+[**92. Reverse Linked List II**](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 
 Reverse a linked list from position _m_ to _n_. Do it in-place and in one-pass.
 
@@ -59,7 +59,9 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode pre = dummy;
-        for (int i = 0; i < m - 1; i++) pre = pre.next; //find the node right before the reversed one
+        
+        //find the node right before the reversed one
+        for (int i = 0; i < m - 1; i++) pre = pre.next; 
 
         ListNode first = pre.next;
         ListNode second = first.next;

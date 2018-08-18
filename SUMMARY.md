@@ -4,21 +4,24 @@
 
 ## Array 数组
 
-* [Two Sum](array/two-sum.md)
+* [Two Sum](array/two-sum/README.md)
+  * [653. Two Sum IV - Input is a BST](array/two-sum/653.-two-sum-iv-input-is-a-bst.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
-* [Duplicate](array/duplicate/README.md)
-  * [Contains Duplicate](array/duplicate/contains-duplicate/README.md)
-    * [217. Contains Duplicate](array/duplicate/contains-duplicate/217.-contains-duplicate.md)
-    * [219. Contains Duplicate II](array/duplicate/contains-duplicate/219.-contains-duplicate-ii.md)
-    * [220. Contains Duplicate III](array/duplicate/contains-duplicate/220.-contains-duplicate-iii.md)
-  * [Find Duplicate](array/duplicate/find-duplicate/README.md)
-    * [287. Find the Duplicate Number](array/duplicate/find-duplicate/287.-find-the-duplicate-number.md)
-    * [442. Find All Duplicates in an Array](array/duplicate/find-duplicate/442.-find-all-duplicates-in-an-array.md)
-    * [26. Remove Duplicates from Sorted Array](array/duplicate/find-duplicate/26.-remove-duplicates-from-sorted-array.md)
 * [Missing/Disappeared Number](array/miss-number/README.md)
   * [268. Missing Number](array/miss-number/268.-missing-number.md)
   * [448. Find All Numbers Disappeared in an Array](array/miss-number/untitled-1.md)
   * [41. First Missing Positive](array/miss-number/untitled-2.md)
+* [Duplicate](array/duplicate/README.md)
+  * [217. Contains Duplicate](array/duplicate/217.-contains-duplicate.md)
+  * [219. Contains Duplicate II](array/duplicate/219.-contains-duplicate-ii.md)
+  * [220. Contains Duplicate III](array/duplicate/220.-contains-duplicate-iii.md)
+  * [287. Find the Duplicate Number](array/duplicate/287.-find-the-duplicate-number.md)
+  * [442. Find All Duplicates in an Array](array/duplicate/442.-find-all-duplicates-in-an-array.md)
+  * [26. Remove Duplicates from Sorted Array / 27. Remove Element / 283. Move Zeroes](array/duplicate/26.-remove-duplicates-from-sorted-array.md)
+* [Subarray](array/subarray/README.md)
+  * [724. Find Pivot Index](array/subarray/724.-find-pivot-index.md)
+  * [523. Continuous Subarray Sum](array/subarray/523.-continuous-subarray-sum.md)
+  * [560. Subarray Sum Equals K](array/subarray/560.-subarray-sum-equals-k.md)
 * [Unsorted Subarray](array/unsorted/README.md)
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
 * [Subsequence](array/subsequence/README.md)
@@ -57,6 +60,10 @@
 ## Bit Manipulation 位运算
 
 * [Power of Number](bit-manipulation/power-of-number.md)
+* [Hamming Distance](bit-manipulation/hamming-distance/README.md)
+  * [191. Number of 1 Bits](bit-manipulation/hamming-distance/191.-number-of-1-bits.md)
+  * [461. Hamming Distance](bit-manipulation/hamming-distance/461.-hamming-distance.md)
+  * [477. Total Hamming Distance](bit-manipulation/hamming-distance/477.-total-hamming-distance.md)
 
 ## Design 设计
 
@@ -76,6 +83,7 @@
   * [198. House Robber](dynamic-programming/house-robber/198.-house-robber.md)
   * [213. House Robber II](dynamic-programming/house-robber/untitled.md)
   * [337. House Robber III](dynamic-programming/house-robber/337.-house-robber-iii.md)
+  * [740. Delete and Earn](dynamic-programming/house-robber/740.-delete-and-earn.md)
 * [Maximum Subarray](dynamic-programming/untitled/README.md)
   * [53. Maximum Subarray](dynamic-programming/untitled/53.-maximum-subarray.md)
   * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
@@ -102,6 +110,7 @@
 ## Hash
 
 * [Frequency](hash/untitled/README.md)
+  * [697. Degree of an Array](hash/untitled/697.-degree-of-an-array.md)
   * [347. Top K Frequent Elements](hash/untitled/347.-top-k-frequent-elements.md)
   * [451. Sort Characters By Frequency](hash/untitled/451.-sort-characters-by-frequency.md)
 
@@ -199,17 +208,22 @@
 ## Tree 树
 
 * [Tree Traversal](tree/traversal/README.md)
+  * [BFS/DFS 应用题](tree/traversal/bfsdfs-ying-yong-ti/README.md)
+    * [404. Sum of Left Leaves](tree/traversal/bfsdfs-ying-yong-ti/404.-sum-of-left-leaves.md)
   * [Inorder\(Left-Root-Right\) Related](tree/traversal/inorder-related/README.md)
     * [530. Minimum Absolute Difference in BST == 783. Minimum Distance Between BST Nodes](tree/traversal/inorder-related/530.-minimum-absolute-difference-in-bst-783.-minimum-distance-between-bst-nodes.md)
   * [Right-Root-Left Related](tree/traversal/right-root-left-related/README.md)
     * [538. Convert BST to Greater Tree](tree/traversal/right-root-left-related/538.-convert-bst-to-greater-tree.md)
-* [Path Sum](tree/path-sum.md)
+  * [Level Order Related](tree/traversal/level-order-related/README.md)
+    * [637. Average of Levels in Binary Tree](tree/traversal/level-order-related/637.-average-of-levels-in-binary-tree.md)
+* [Depth](tree/depth.md)
+* [Path Sum](tree/path-sum/README.md)
+  * [543. Diameter of Binary Tree](tree/path-sum/543.-diameter-of-binary-tree.md)
 * [Validate Tree](tree/validate-tree/README.md)
   * [98. Validate Binary Search Tree](tree/validate-tree/98.-validate-binary-search-tree.md)
   * [100. Same Tree](tree/validate-tree/100.-same-tree.md)
   * [110. Balanced Binary Tree](tree/validate-tree/110.-balanced-binary-tree.md)
   * [101. Symmetric Tree](tree/validate-tree/101.-symmetric-tree.md)
-* [Depth](tree/depth.md)
 * [Construct Tree](tree/construct-tree/README.md)
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/construct-tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](tree/construct-tree/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
@@ -226,7 +240,7 @@
 
 ## Two Pointers
 
-* [Move Numbers](two-pointers/move-numbers.md)
+* [Move/Remove Numbers](two-pointers/move-remove-numbers.md)
 * [475. Heaters](two-pointers/475.-heaters.md)
 
 ## Union Find
