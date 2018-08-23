@@ -26,6 +26,13 @@
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
 * [Subsequence](array/subsequence/README.md)
   * [300. Longest Increasing Subsequence](array/subsequence/300.-longest-increasing-subsequence.md)
+* [Intervals](array/intervals/README.md)
+  * [56. Merge Intervals](array/intervals/56.-merge-intervals.md)
+  * [57. Insert Interval](array/intervals/untitled-1.md)
+  * [My Calendar](array/intervals/my-calendar/README.md)
+    * [729. My Calendar I](array/intervals/my-calendar/untitled-2.md)
+    * [731. My Calendar II](array/intervals/my-calendar/731.-my-calendar-ii.md)
+    * [732. My Calendar III](array/intervals/my-calendar/732.-my-calendar-iii.md)
 
 ## Backtracking
 
@@ -76,6 +83,7 @@
 * [706. Design HashMap](design/706.-design-hashmap.md)
 * [705. Design HashSet](design/705.-design-hashset.md)
 * [707. Design Linked List](design/707.-design-linked-list.md)
+* [Two Sum III - Data structure design](design/two-sum-iii-data-structure-design.md)
 
 ## Dynamic Programming 动态规划
 
@@ -96,6 +104,7 @@
   * [309. Best Time to Buy and Sell Stock with Cooldown](dynamic-programming/buy-and-sell-stock/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
   * [123. Best Time to Buy and Sell Stock III](dynamic-programming/buy-and-sell-stock/123.-best-time-to-buy-and-sell-stock-iii.md)
   * [188. Best Time to Buy and Sell Stock IV](dynamic-programming/buy-and-sell-stock/188.-best-time-to-buy-and-sell-stock-iv.md)
+* [Climb Stairs](dynamic-programming/climb-stairs.md)
 
 ## Graph
 
@@ -106,6 +115,7 @@
 * [Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game.md)
 * [605. Can Place Flowers](greedy/605.-can-place-flowers.md)
+* [621. Task Scheduler](greedy/621.-task-scheduler.md)
 
 ## Hash
 
@@ -204,6 +214,9 @@
 * [Roman/Integer/String](string/shu-zi-zhuan-huan/README.md)
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
+  * [273. Integer to English Words](string/shu-zi-zhuan-huan/273.-integer-to-english-words.md)
+* [锁住的题](string/suo-zhu-de-ti/README.md)
+  * [One Edit Distance](string/suo-zhu-de-ti/one-edit-distance.md)
 
 ## Tree 树
 
