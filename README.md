@@ -1,4 +1,4 @@
 # Introduction
 
-This book is to keep an electronic copy of all the leetcode questions I have tried.
+This book is to keep an electronic copy of all the leetcode questions I have tried. https://app.gitbook.com/@zhenyuzhou/s/lcbook/
 
