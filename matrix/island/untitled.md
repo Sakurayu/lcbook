@@ -35,7 +35,7 @@ _**My Solutions:**_
 ```text
 class Solution {
     public int numIslands(char[][] grid) {
-        if (grid.length == 0) return 0;
+        if (grid == null || grid.length == 0) return 0;
         int res = 0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {
@@ -92,14 +92,14 @@ Given the above grid, return `0`.
 
 **Note:** The length of each dimension in the given `grid` does not exceed 50.
 
-_My Solutions:_
+_**My Solutions:**_
 
 和上题思想相同，每一次dfs完一个1的所有连接岛屿后，更新result的大小
 
 ```text
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        if (grid.length == 0) return 0;
+        if (grid == null || grid.length == 0) return 0;
         int res = 0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {

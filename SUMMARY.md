@@ -2,9 +2,10 @@
 
 * [Introduction](README.md)
 
-## Array 数组
+## Array 数组 <a id="array"></a>
 
 * [Two Sum](array/two-sum/README.md)
+  * [1. Two Sum](array/two-sum/1.-two-sum.md)
   * [653. Two Sum IV - Input is a BST](array/two-sum/653.-two-sum-iv-input-is-a-bst.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 * [Missing/Disappeared Number](array/miss-number/README.md)
@@ -16,11 +17,12 @@
   * [219. Contains Duplicate II](array/duplicate/219.-contains-duplicate-ii.md)
   * [220. Contains Duplicate III](array/duplicate/220.-contains-duplicate-iii.md)
   * [287. Find the Duplicate Number](array/duplicate/287.-find-the-duplicate-number.md)
-  * [442. Find All Duplicates in an Array](array/duplicate/442.-find-all-duplicates-in-an-array.md)
+  * [442. Find All Duplicates in an Array & 448. Find All Numbers Disappeared in an Array](array/duplicate/442.-find-all-duplicates-in-an-array.md)
   * [26. Remove Duplicates from Sorted Array / 27. Remove Element / 283. Move Zeroes](array/duplicate/26.-remove-duplicates-from-sorted-array.md)
 * [Subarray](array/subarray/README.md)
   * [724. Find Pivot Index](array/subarray/724.-find-pivot-index.md)
   * [523. Continuous Subarray Sum](array/subarray/523.-continuous-subarray-sum.md)
+  * [525. Contiguous Array](array/subarray/525.-contiguous-array.md)
   * [560. Subarray Sum Equals K](array/subarray/560.-subarray-sum-equals-k.md)
 * [Unsorted Subarray](array/unsorted/README.md)
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
@@ -59,20 +61,23 @@
 
 * [Islands](bfs/islands.md)
 
-## Binary Search 二分法
+## Binary Search 二分法 <a id="binary-search"></a>
 
 * [Array 模板](binary-search/array-mo-ban.md)
 * [Matrix](binary-search/matrix-1.md)
 
-## Bit Manipulation 位运算
+## Bit Manipulation 位运算 <a id="bit-manipulation"></a>
 
+* [知识整理](bit-manipulation/zhi-shi-zheng-li.md)
+* [Single Number](bit-manipulation/single-number/README.md)
+  * [136. Single Number](bit-manipulation/single-number/136.-single-number.md)
 * [Power of Number](bit-manipulation/power-of-number.md)
 * [Hamming Distance](bit-manipulation/hamming-distance/README.md)
   * [191. Number of 1 Bits](bit-manipulation/hamming-distance/191.-number-of-1-bits.md)
   * [461. Hamming Distance](bit-manipulation/hamming-distance/461.-hamming-distance.md)
   * [477. Total Hamming Distance](bit-manipulation/hamming-distance/477.-total-hamming-distance.md)
 
-## Design 设计
+## Design 设计 <a id="design"></a>
 
 * [146. LRU Cache](design/146.-lru-cache.md)
 * [295. Find Median from Data Stream](design/295.-find-median-from-data-stream.md)
@@ -85,7 +90,7 @@
 * [707. Design Linked List](design/707.-design-linked-list.md)
 * [Two Sum III - Data structure design](design/two-sum-iii-data-structure-design.md)
 
-## Dynamic Programming 动态规划
+## Dynamic Programming 动态规划 <a id="dynamic-programming"></a>
 
 * [House Robber](dynamic-programming/house-robber/README.md)
   * [198. House Robber](dynamic-programming/house-robber/198.-house-robber.md)
@@ -95,6 +100,8 @@
 * [Maximum Subarray](dynamic-programming/untitled/README.md)
   * [53. Maximum Subarray](dynamic-programming/untitled/53.-maximum-subarray.md)
   * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
+* [Path Sum](dynamic-programming/path-sum/README.md)
+  * [64. Minimum Path Sum](dynamic-programming/path-sum/64.-minimum-path-sum.md)
 * [2D DP](dynamic-programming/2d-dp/README.md)
   * [72. Edit Distance](dynamic-programming/2d-dp/72.-edit-distance.md)
 * [Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/README.md)
@@ -110,7 +117,7 @@
 
 * [Clone](graph/clone.md)
 
-## Greedy 贪心算法
+## Greedy 贪心算法 <a id="greedy"></a>
 
 * [Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game.md)
@@ -124,7 +131,7 @@
   * [347. Top K Frequent Elements](hash/untitled/347.-top-k-frequent-elements.md)
   * [451. Sort Characters By Frequency](hash/untitled/451.-sort-characters-by-frequency.md)
 
-## Linked List 链表
+## Linked List 链表 <a id="linked-list"></a>
 
 * [Reverse](linked-list/reverse.md)
 * [Find Mid-Point](linked-list/find-mid-point.md)
@@ -154,12 +161,13 @@
   * [148. Sort List](linked-list/mixup-of-basic-models/148.-sort-list.md)
 * [Copy](linked-list/copy.md)
 
-## Math 数学计算
+## Math 数学计算 <a id="math"></a>
 
 * [Sqrt](math/sqrt.md)
 * [Ugly Number](math/ugly-number/README.md)
   * [263. Ugly Number](math/ugly-number/263.-ugly-number.md)
   * [264. Ugly Number II](math/ugly-number/264.-ugly-number-ii.md)
+* [202. Happy Number](math/202.-happy-number.md)
 * [441. Arranging Coins](math/441.-arranging-coins.md)
 * [447. Number of Boomerangs](math/447.-number-of-boomerangs.md)
 
@@ -176,10 +184,11 @@
 
 ## Priority Queue
 
+* [Implementation of Priority Queue](priority-queue/implementation-of-priority-queue.md)
 * [295. Find Median from Data Stream](priority-queue/find-median.md)
 * [703. Kth Largest Element in a Stream](priority-queue/703.-kth-largest-element-in-a-stream.md)
 
-## Random 随机
+## Random 随机 <a id="random"></a>
 
 * [Reservoir Sampling](random/reservoir-sampling/README.md)
   * [382. Linked List Random Node](random/reservoir-sampling/382.-linked-list-random-node.md)
@@ -188,6 +197,9 @@
 
 ## Stack
 
+* [Valid Parentheses](stack/valid-parentheses/README.md)
+  * [20. Valid Parentheses](stack/valid-parentheses/20.-valid-parentheses.md)
+  * [678. Valid Parenthesis String](stack/valid-parentheses/678.-valid-parenthesis-string.md)
 * [Min Stack](stack/min-stack.md)
 * [Calculator](stack/calculator.md)
 * [Implement Stack/Queue](stack/implement-stack-queue/README.md)
@@ -199,6 +211,7 @@
 
 * [Palindrome](string/palindrome.md)
 * [Anagram](string/anagram/README.md)
+  * [49. Group Anagrams](string/anagram/49.-group-anagrams.md)
   * [438. Find All Anagrams in a String](string/anagram/438.-find-all-anagrams-in-a-string.md)
 * [Reverse](string/reverse.md)
 * [Add Two Strings](string/add-two-strings/README.md)
@@ -211,6 +224,8 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
+* [Subsequence](string/subsequence/README.md)
+  * [522. Longest Uncommon Subsequence II](string/subsequence/522.-longest-uncommon-subsequence-ii.md)
 * [Roman/Integer/String](string/shu-zi-zhuan-huan/README.md)
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
@@ -218,7 +233,7 @@
 * [锁住的题](string/suo-zhu-de-ti/README.md)
   * [One Edit Distance](string/suo-zhu-de-ti/one-edit-distance.md)
 
-## Tree 树
+## Tree 树 <a id="tree"></a>
 
 * [Tree Traversal](tree/traversal/README.md)
   * [BFS/DFS 应用题](tree/traversal/bfsdfs-ying-yong-ti/README.md)
@@ -229,7 +244,7 @@
     * [538. Convert BST to Greater Tree](tree/traversal/right-root-left-related/538.-convert-bst-to-greater-tree.md)
   * [Level Order Related](tree/traversal/level-order-related/README.md)
     * [637. Average of Levels in Binary Tree](tree/traversal/level-order-related/637.-average-of-levels-in-binary-tree.md)
-* [Depth](tree/depth.md)
+* [Depth & Diameter](tree/depth.md)
 * [Path Sum](tree/path-sum/README.md)
   * [543. Diameter of Binary Tree](tree/path-sum/543.-diameter-of-binary-tree.md)
 * [Validate Tree](tree/validate-tree/README.md)
@@ -241,7 +256,12 @@
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/construct-tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](tree/construct-tree/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
 * [Manipulate Tree](tree/manipulate-tree/README.md)
+  * [173. Binary Search Tree Iterator](tree/manipulate-tree/173.-binary-search-tree-iterator.md)
   * [226. Invert Binary Tree](tree/manipulate-tree/226.-invert-binary-tree.md)
+  * [669. Trim a Binary Search Tree](tree/manipulate-tree/669.-trim-a-binary-search-tree.md)
+  * [617. Merge Two Binary Trees](tree/manipulate-tree/617.-merge-two-binary-trees.md)
+  * [114. Flatten Binary Tree to Linked List](tree/manipulate-tree/114.-flatten-binary-tree-to-linked-list.md)
+  * [108. Convert Sorted Array to Binary Search Tree](tree/manipulate-tree/108.-convert-sorted-array-to-binary-search-tree.md)
 
 ## Trie
 
@@ -250,15 +270,23 @@
   * [79. Word Search \(Backtracking\)](trie/word-search/79.-word-search-backtracking.md)
   * [212. Word Search II](trie/word-search/212.-word-search-ii.md)
   * [720. Longest Word in Dictionary](trie/word-search/720.-longest-word-in-dictionary.md)
+  * [720. Longest Word in Dictionary](trie/word-search/720.-longest-word-in-dictionary-1.md)
 
 ## Two Pointers
 
-* [Move/Remove Numbers](two-pointers/move-remove-numbers.md)
+* [Move/Remove Numbers](two-pointers/move-remove-numbers/README.md)
+  * [844. Backspace String Compare](two-pointers/move-remove-numbers/844.-backspace-string-compare.md)
+  * [283. Move Zeroes](two-pointers/move-remove-numbers/283.-move-zeroes.md)
 * [475. Heaters](two-pointers/475.-heaters.md)
 
 ## Union Find
 
 * [Consecutive Sequence](union-find/consecutive-sequence.md)
+* [Untitled](union-find/untitled.md)
+
+## Comparator
+
+* [Reverse Order](comparator/reverse-order.md)
 
 ## BrainStorm
 

@@ -14,7 +14,7 @@
 
 Time: O\(n\); Space: stack: O\(n\)
 
-* [**Preorder**](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)\(root, left, right\): 1, 2, 4, 5, 3
+* [**Preorder**](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)\(root, left, right\): 1, 2, 4, 5, 3 中左右
 
 ```text
 public ArrayList<Integer> traversal(Node root) {
@@ -52,7 +52,7 @@ class Solution {
 }
 ```
 
-* [**Inorder**](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)\(left, root, right\): 4, 2, 5, 1, 3
+* [**Inorder**](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)\(left, root, right\): 4, 2, 5, 1, 3 左中右
 
 ```text
 public ArrayList<Integer> inOrderHelper(Node root, ArrayList<Integer> list) {
@@ -85,7 +85,7 @@ class Solution {
 }
 ```
 
-* [**Postorder**](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)\(left, right, root\): 4, 5, 2, 3, 1
+* [**Postorder**](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)\(left, right, root\): 4, 5, 2, 3, 1 左右中
 
 ```text
 public ArrayList<Integer> postOrderHelper(Node root, ArrayList<Integer> list) {
