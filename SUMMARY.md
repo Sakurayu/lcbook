@@ -63,7 +63,9 @@
 
 ## Binary Search 二分法 <a id="binary-search"></a>
 
-* [Array 模板](binary-search/array-mo-ban.md)
+* [Array 模板](binary-search/array-mo-ban/README.md)
+  * [33. Search in Rotated Sorted Array](binary-search/array-mo-ban/33.-search-in-rotated-sorted-array.md)
+  * [81. Search in Rotated Sorted Array II](binary-search/array-mo-ban/81.-search-in-rotated-sorted-array-ii.md)
 * [Matrix](binary-search/matrix-1.md)
 
 ## Bit Manipulation 位运算 <a id="bit-manipulation"></a>
