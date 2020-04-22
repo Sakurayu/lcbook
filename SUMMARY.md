@@ -257,6 +257,7 @@
 * [Construct Tree](tree/construct-tree/README.md)
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/construct-tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](tree/construct-tree/106.-construct-binary-tree-from-inorder-and-postorder-traversal.md)
+  * [1008. Construct Binary Search Tree from Preorder Traversal](tree/construct-tree/1008.-construct-binary-search-tree-from-preorder-traversal.md)
 * [Manipulate Tree](tree/manipulate-tree/README.md)
   * [173. Binary Search Tree Iterator](tree/manipulate-tree/173.-binary-search-tree-iterator.md)
   * [226. Invert Binary Tree](tree/manipulate-tree/226.-invert-binary-tree.md)
