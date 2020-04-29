@@ -93,6 +93,7 @@
 * [705. Design HashSet](design/705.-design-hashset.md)
 * [707. Design Linked List](design/707.-design-linked-list.md)
 * [Two Sum III - Data structure design](design/two-sum-iii-data-structure-design.md)
+* [First Unique Number](design/first-unique-number.md)
 
 ## Dynamic Programming 动态规划 <a id="dynamic-programming"></a>
 
