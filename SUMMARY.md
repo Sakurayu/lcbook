@@ -116,6 +116,7 @@
   * [123. Best Time to Buy and Sell Stock III](dynamic-programming/buy-and-sell-stock/123.-best-time-to-buy-and-sell-stock-iii.md)
   * [188. Best Time to Buy and Sell Stock IV](dynamic-programming/buy-and-sell-stock/188.-best-time-to-buy-and-sell-stock-iv.md)
 * [Climb Stairs](dynamic-programming/climb-stairs.md)
+* [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
 
 ## Graph
 
