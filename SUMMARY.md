@@ -92,6 +92,7 @@
 * [706. Design HashMap](design/706.-design-hashmap.md)
 * [705. Design HashSet](design/705.-design-hashset.md)
 * [707. Design Linked List](design/707.-design-linked-list.md)
+* [622. Design Circular Queue](design/622.-design-circular-queue.md)
 * [Two Sum III - Data structure design](design/two-sum-iii-data-structure-design.md)
 * [First Unique Number](design/first-unique-number.md)
 
@@ -290,7 +291,6 @@
 ## Union Find
 
 * [Consecutive Sequence](union-find/consecutive-sequence.md)
-* [Untitled](union-find/untitled.md)
 
 ## Comparator
 
