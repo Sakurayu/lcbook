@@ -23,7 +23,7 @@ Output:
 ]
 ```
 
-**My Solutions:**
+_**My Solutions:**_
 
 注意dfs的for loop中，i=start，只能从前往后找
 
@@ -37,11 +37,11 @@ class Solution {
     }
     
     private void dfs(List<List<Integer>> list, List<Integer> temp, int[] nums, int start) {
-        list.add(new ArrayList<>(temp));
+        list.add(new ArrayList<>(temp)); //先放入之前的
         for (int i = start; i < nums.length; i++) {
-            temp.add(nums[i]);
+            temp.add(nums[i]); //在之前的放入新元素
             dfs(list, temp, nums, i + 1);
-            temp.remove(temp.size() - 1);
+            temp.remove(temp.size() - 1); //回头的时候，需要去掉temp里最后加入的元素
         }
     }
 }
@@ -49,9 +49,13 @@ class Solution {
 
 方法2：非递归，按照组合的思想，一个数字都没有的时候是空集；有一个数字，则这个数字+空集是一个新集合。因此，每循环到一个新元素，就把之前已经加入的所有list再加上这个元素，再加入list of list
 
-e.g. \[1,2,3\]
+e.g. 【1，2，3】
 
-一开始放空集【】；之后是【】，【1】；再之后是【】，【1】，【2】，【1，2】......
+一开始list里只有空集【】；
+
+第一个n是1，n=1，size=1，内for loop循环结束一次之后list是【】，【1】；内for loop循环第二次之后list是【】，【1】，【2】，【1，2】
+
+第二个n是2，n=2，size=4，内for loop循环一次结束后，list是【】，【1】，【2】，【1，2】，【3】；内for loop循环第二次后list是【】，【1】，【2】，【1，2】，【3】，【1，3】；第三次后是【】，【1】，【2】，【1，2】，【3】，【1，3】，【2，3】；第四次后是【】，【1】，【2】，【1，2】，【3】，【1，3】，【2，3】，【1，2，3】
 
 ```text
     public List<List<Integer>> subsets(int[] nums) {
@@ -60,7 +64,7 @@ e.g. \[1,2,3\]
         for (int n : nums) { //从nums中取出每一个元素
             int size = list.size();
             for (int i = 0; i < size; i++) {
-                List<Integer> temp = new ArrayList<>(list.get(i)); //temp是list中已有的
+                List<Integer> temp = new ArrayList<>(list.get(i)); //temp是list中已有的数组
                 temp.add(n); //把新元素加入temp
                 list.add(temp); //新temp加入list中
             }
@@ -90,7 +94,7 @@ Output:
 ]
 ```
 
-**My Solutions:**
+_**My Solutions:**_
 
 和上题类似，多增加一步跳过duplicates
 
