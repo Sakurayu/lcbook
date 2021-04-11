@@ -187,6 +187,7 @@
   * [200. Number of Islands / 695. Max Area of Island](matrix/island/untitled.md)
 * [766. Toeplitz Matrix](matrix/766.-toeplitz-matrix.md)
 * [DFS in Matrix](matrix/dfs-in-matrix/README.md)
+  * [329. Longest Increasing Path in a Matrix](matrix/dfs-in-matrix/329.-longest-increasing-path-in-a-matrix.md)
   * [733. Flood Fill](matrix/dfs-in-matrix/733.-flood-fill.md)
 * [547. Friend Circles](matrix/547.-friend-circles.md)
 
@@ -246,6 +247,7 @@
 * [Tree Traversal](tree/traversal/README.md)
   * [BFS/DFS 应用题](tree/traversal/bfsdfs-ying-yong-ti/README.md)
     * [404. Sum of Left Leaves](tree/traversal/bfsdfs-ying-yong-ti/404.-sum-of-left-leaves.md)
+    * [1302. Deepest Leaves Sum](tree/traversal/bfsdfs-ying-yong-ti/1302.-deepest-leaves-sum.md)
   * [Inorder\(Left-Root-Right\) Related](tree/traversal/inorder-related/README.md)
     * [530. Minimum Absolute Difference in BST == 783. Minimum Distance Between BST Nodes](tree/traversal/inorder-related/530.-minimum-absolute-difference-in-bst-783.-minimum-distance-between-bst-nodes.md)
   * [Right-Root-Left Related](tree/traversal/right-root-left-related/README.md)
