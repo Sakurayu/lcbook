@@ -108,6 +108,7 @@
   * [152. Maximum Product Subarray](dynamic-programming/untitled/152.-maximum-product-subarray.md)
 * [Path Sum](dynamic-programming/path-sum/README.md)
   * [64. Minimum Path Sum](dynamic-programming/path-sum/64.-minimum-path-sum.md)
+  * [120. Triangle](dynamic-programming/path-sum/120.-triangle.md)
 * [2D DP](dynamic-programming/2d-dp/README.md)
   * [72. Edit Distance](dynamic-programming/2d-dp/72.-edit-distance.md)
 * [Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/README.md)
