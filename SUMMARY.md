@@ -235,6 +235,7 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
+  * [696. Count Binary Substrings](string/substring-sliding-window/696.-count-binary-substrings.md)
 * [Subsequence](string/subsequence/README.md)
   * [522. Longest Uncommon Subsequence II](string/subsequence/522.-longest-uncommon-subsequence-ii.md)
 * [Roman/Integer/String](string/shu-zi-zhuan-huan/README.md)
