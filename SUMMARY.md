@@ -242,8 +242,7 @@
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
   * [273. Integer to English Words](string/shu-zi-zhuan-huan/273.-integer-to-english-words.md)
-* [锁住的题](string/suo-zhu-de-ti/README.md)
-  * [One Edit Distance](string/suo-zhu-de-ti/one-edit-distance.md)
+* [One Edit Distance](string/one-edit-distance.md)
 
 ## Tree 树 <a id="tree"></a>
 
