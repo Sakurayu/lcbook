@@ -130,6 +130,7 @@
 * [Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game/README.md)
   * [55. Jump Game](greedy/jump-game/55.-jump-game.md)
+  * [45. Jump Game II](greedy/jump-game/45.-jump-game-ii.md)
 * [605. Can Place Flowers](greedy/605.-can-place-flowers.md)
 * [621. Task Scheduler](greedy/621.-task-scheduler.md)
 
