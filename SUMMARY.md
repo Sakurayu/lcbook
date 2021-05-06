@@ -127,7 +127,7 @@
 
 ## Greedy 贪心算法 <a id="greedy"></a>
 
-* [Candy](greedy/candy.md)
+* [135. Candy](greedy/candy.md)
 * [Jump Game](greedy/jump-game/README.md)
   * [55. Jump Game](greedy/jump-game/55.-jump-game.md)
   * [45. Jump Game II](greedy/jump-game/45.-jump-game-ii.md)
