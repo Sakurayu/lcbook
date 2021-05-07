@@ -275,7 +275,7 @@
   * [669. Trim a Binary Search Tree](tree/manipulate-tree/669.-trim-a-binary-search-tree.md)
   * [617. Merge Two Binary Trees](tree/manipulate-tree/617.-merge-two-binary-trees.md)
   * [114. Flatten Binary Tree to Linked List](tree/manipulate-tree/114.-flatten-binary-tree-to-linked-list.md)
-  * [108. Convert Sorted Array to Binary Search Tree](tree/manipulate-tree/108.-convert-sorted-array-to-binary-search-tree.md)
+  * [108. Convert Sorted Array to Binary Search Tree / 109. Convert Sorted List to Binary Search Tree](tree/manipulate-tree/108.-convert-sorted-array-to-binary-search-tree.md)
 
 ## Trie
 
