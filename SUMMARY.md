@@ -236,7 +236,6 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
-  * [696. Count Binary Substrings](string/substring-sliding-window/696.-count-binary-substrings.md)
 * [Subsequence](string/subsequence/README.md)
   * [Longest Common Subsequence](string/subsequence/longest-common-subsequence/README.md)
     * [1143. Longest Common Subsequence](string/subsequence/longest-common-subsequence/1143.-longest-common-subsequence.md)
@@ -246,6 +245,7 @@
   * [Roman/Integer](string/shu-zi-zhuan-huan/roman-integer.md)
   * [String/Integer](string/shu-zi-zhuan-huan/string-integer.md)
   * [273. Integer to English Words](string/shu-zi-zhuan-huan/273.-integer-to-english-words.md)
+* [696. Count Binary Substrings](string/696.-count-binary-substrings.md)
 * [One Edit Distance](string/one-edit-distance.md)
 
 ## Tree 树 <a id="tree"></a>
