@@ -110,6 +110,7 @@
   * [64. Minimum Path Sum](dynamic-programming/path-sum/64.-minimum-path-sum.md)
   * [120. Triangle](dynamic-programming/path-sum/120.-triangle.md)
 * [2D DP](dynamic-programming/2d-dp/README.md)
+  * [304. Range Sum Query 2D - Immutable](dynamic-programming/2d-dp/304.-range-sum-query-2d-immutable.md)
   * [72. Edit Distance](dynamic-programming/2d-dp/72.-edit-distance.md)
 * [Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/README.md)
   * [121. Best Time to Buy and Sell Stock](dynamic-programming/buy-and-sell-stock/121.-best-time-to-buy-and-sell-stock.md)
