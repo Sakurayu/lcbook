@@ -307,6 +307,8 @@
 
 ## BrainStorm
 
+* [453. Minimum Moves to Equal Array Elements](brainstorm/453.-minimum-moves-to-equal-array-elements.md)
+* [462. Minimum Moves to Equal Array Elements II](brainstorm/462.-minimum-moves-to-equal-array-elements-ii.md)
 * [681. Next Closest Time](brainstorm/leetcode-681.-next-closest-time.md)
 * [683. K Empty Slots](brainstorm/683.-k-empty-slots.md)
 
