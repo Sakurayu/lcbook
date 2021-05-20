@@ -241,11 +241,12 @@ class Solution {
     
         List<List<Integer>> list = new LinkedList<>();
         if (root == null) return list;
+        // queue需要用linked list
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         
         while (!queue.isEmpty()) {
-            int size = queue.size();
+            int size = queue.size(); //必须要先把size存下来，因为在for loop里，每次都要poll，影响queue的size
             List<Integer> level = new LinkedList<>();
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
@@ -271,10 +272,14 @@ class Solution {
     
     private void helper(List<List<Integer>> list, TreeNode root, int height) {
         if (root == null) return;
-        // 每一层height应该有一个list的元素。因此，当height >= list.size()时，在list里加入一个空的新元素。
+        
+        // 每一层height应该有一个对应list的element，储存这一层的所有children的值
+        // 因此，当height >= list.size()时，在list里加入一个空的新元素。
         if (height >= list.size()) list.add(new LinkedList<Integer>());
+        
         // 每一个root的值，应该加入它所在的list的元素里，元素的index是height。
         list.get(height).add(root.val);
+        
         helper(list, root.left, height + 1);
         helper(list, root.right, height + 1);
     }
