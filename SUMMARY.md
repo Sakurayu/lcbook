@@ -242,6 +242,7 @@
 * [Substring / Sliding Window](string/substring-sliding-window/README.md)
   * [3. Longest Substring Without Repeating Characters](string/substring-sliding-window/3.-longest-substring-without-repeating-characters.md)
   * [76. Minimum Window Substring](string/substring-sliding-window/untitled.md)
+  * [1695. Maximum Erasure ValueSolution](string/substring-sliding-window/1695.-maximum-erasure-valuesolution.md)
 * [Subsequence](string/subsequence/README.md)
   * [Longest Common Subsequence](string/subsequence/longest-common-subsequence/README.md)
     * [1143. Longest Common Subsequence](string/subsequence/longest-common-subsequence/1143.-longest-common-subsequence.md)

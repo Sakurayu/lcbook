@@ -36,7 +36,7 @@ class Solution {
                 total--;
             }
             count[s.charAt(i)]--; //无论如何此char的在count中的次数减一
-            while (total == 0) { // 只要total==0，说明t的字母都在已有的window里，可以继续往右slide window，知道total>=0, 需要的字母不再包含在window里
+            while (total == 0) { // 只要total==0，说明t的字母都在已有的window里，可以继续往右slide window，直到total>=0, 需要的字母不再包含在window里
                 if (i - j + 1 < min) { // 只有找到一个更小的window时
                     min = i - j + 1; // 更新min
                     start = j; // 更新记录window起点的start
