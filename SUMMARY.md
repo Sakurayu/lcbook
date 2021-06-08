@@ -305,7 +305,7 @@
 
 ## Union Find
 
-* [Consecutive Sequence](union-find/consecutive-sequence.md)
+* [128. Longest Consecutive Sequence](union-find/consecutive-sequence.md)
 
 ## Comparator
 
