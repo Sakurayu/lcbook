@@ -24,6 +24,7 @@
   * [523. Continuous Subarray Sum](array/subarray/523.-continuous-subarray-sum.md)
   * [525. Contiguous Array](array/subarray/525.-contiguous-array.md)
   * [560. Subarray Sum Equals K](array/subarray/560.-subarray-sum-equals-k.md)
+  * [795. Number of Subarrays with Bounded Maximum](array/subarray/795.-number-of-subarrays-with-bounded-maximum.md)
 * [Unsorted Subarray](array/unsorted/README.md)
   * [581. Shortest Unsorted Continuous Subarray](array/unsorted/untitled.md)
 * [Subsequence](array/subsequence/README.md)
