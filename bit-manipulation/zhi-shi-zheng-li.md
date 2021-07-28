@@ -14,7 +14,9 @@
 
 ## XOR Exclusive Or \(^\)
 
-通常用于对二进制的特定一位进行取反操作，XOR Truth Table:
+若两个输入的电平相异，则输出为高电平（1）；若两个输入的电平相同，则输出为低电平（0）。
+
+XOR Truth Table:
 
 0 XOR 0 = 0
 
